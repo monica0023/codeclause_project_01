@@ -1,0 +1,25 @@
+churn prediction in telecom industries
+
+OVERVIEW
+
+FEATURES
+
+Data Preprocessing: 
+
+The project includes robust data cleaning and preprocessing steps. It addresses missing values, encodes categorical features, and scales numerical features to prepare the dataset for modeling.
+
+Exploratory Data Analysis (EDA): 
+
+Gain insights into the telecom dataset through exploratory data analysis. Visualize key trends, patterns, and correlations to better understand factors influencing customer churn.
+
+Logistic Regression Model: 
+
+Implement a logistic regression model to predict customer churn. This model leverages historical customer data to make predictions based on various features.
+
+Model Evaluation: 
+
+Evaluate the performance of the logistic regression model using metrics such as accuracy, precision, recall, and F1 score. This step provides a comprehensive understanding of how well the model generalizes to new data.
+
+Visualization: 
+
+Visualize key insights and results using matplotlib and seaborn. This enhances interpretability and aids in communicating findings to stakeholders.
